@@ -45,7 +45,7 @@ Python 3.13, FastAPI, Uvicorn, boto3, pytest, moto, AWS S3 and IAM.
 Prerequisites: Python 3, an AWS account with an S3 bucket, and the AWS CLI configured (`aws configure`) with a user that can read, write and list that bucket.
 
 ```
-git clone https://github.com/YOUR-USERNAME/secure-file-vault.git
+git clone https://github.com/Vasian22/secure-file-vault.git
 cd secure-file-vault
 python -m venv venv
 venv\Scripts\activate          # on macOS/Linux: source venv/bin/activate
